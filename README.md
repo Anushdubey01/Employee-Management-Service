@@ -1,12 +1,6 @@
 # Employee-Management-Service
 ______
 
-Here's a well-defined and documented structure for your GitHub repository that outlines the implementation of an employee management service using Java Spring Boot, with detailed instructions and documentation.
-
----
-
-# Employee Management Service
-
 ## Overview
 
 This repository contains a Java Spring Boot application for managing employee records. The application allows users to perform CRUD operations (Create, Read, Update, Delete) on employee data. It also demonstrates how to host the data using the GreenLake Cloud Platform.
